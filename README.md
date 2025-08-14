@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ajay-username"><img src="https://komarev.com/ghpvc/?username=ajay-username&style=for-the-badge" alt="profile views"></a>
-  <a href="mailto:ajay.email@example.com"><img src="https://img.shields.io/badge/Email-ajay.email%40example.com-blue?style=for-the-badge&logo=gmail" alt="email"></a>
+  <a href="mailto:ajaychakraborty395@gmail.com"><img src="https://img.shields.io/badge/Email-ajay.email%40example.com-blue?style=for-the-badge&logo=gmail" alt="email"></a>
   <a href="https://www.linkedin.com/in/ajay-link"><img src="https://img.shields.io/badge/LinkedIn-Ajay%20Chakraborty-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
   <a href="https://ajay-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel" alt="portfolio"></a>
 </p>
