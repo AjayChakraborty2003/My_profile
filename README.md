@@ -38,7 +38,8 @@
 ### 📚 Relevant Coursework  
 - Machine Learning 🤖  
 - Data Structures & Algorithms 📊  
-- Object Oriented Programming 💡  
+- Object Oriented Programming 💡
+- Computer Networks 🖥️ 
 
 ---
 
