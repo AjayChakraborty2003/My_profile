@@ -5,6 +5,7 @@
 
 ### 📫 Connect with me:
 📧 **Email:** [ajaychakraborty395@gmail.com](mailto:ajaychakraborty395@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/ajaychakraborty](https://www.linkedin.com/feed/)
 
 ---
 
